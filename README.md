@@ -1,2 +1,2 @@
 # Milkshakes & Smoothies Bar App
-An application that let user choose drink from menu to place an order (Flutter, Dart, GetX)
+The application that let user choose drink from menu to place an order (Flutter, Dart, GetX)
